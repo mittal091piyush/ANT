@@ -1,0 +1,21 @@
+Download ANT 
+Go To SF --> Go To tools --> Download Force.com migration tool
+Go to Salesforce_ant and copy ant-Salesforce.jar
+Paste it in --> Apache ANT to the lib folder 
+
+Above is done to make an intraction between SF and ant 
+
+Now 
+Set the environmental variables 
+Go To My Computer and left click to Properties
+Advance System Variables 
+Environmental Variables
+
+Need to set
+AND_Home 
+Java_Home
+Path
+
+Go to Salesforce Ant, ther will be 2 files 
+build.properties --> Will save the username and Password 
+build.xml
